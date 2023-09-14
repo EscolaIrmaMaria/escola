@@ -1,3 +1,3 @@
 # escola
 
-Site Privado
+Site em Construção
